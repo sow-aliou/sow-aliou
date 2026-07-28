@@ -24,6 +24,8 @@ Récemment diplômé d'une **Licence en Informatique (Génie Logiciel)** à l'Un
 
 ### ✉️ Me contacter
 
+
+- 📄 **Mon CV en ligne** : [cv-aliou-sow.vercel.app](https://cv-aliou-sow.vercel.app/)
 - 💼 **LinkedIn** : [in/aliou-sow-9a8a233a7](https://www.linkedin.com/in/aliou-sow-9a8a233a7)
 - 🌐 **Portfolio** : [portfolio-aliou-sow.vercel.app](https://portfolio-aliou-sow.vercel.app/)
 - 📧 **Email** : [sow8.aliou@gmail.com](mailto:sow8.aliou@gmail.com)
