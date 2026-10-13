@@ -1,8 +1,6 @@
 # Salut ! Moi c'est Aliou Sow 👋
+Diplômé d'une **Licence en Informatique (Génie Logiciel)** à l'Université Iba Der Thiam de Thiès (UIDT), je suis un développeur Full-Stack & Mobile passionné par la conception de solutions logicielles robustes et performantes.
 
-Récemment diplômé d'une **Licence en Informatique (Génie Logiciel)** à l'Université Iba Der Thiam de Thiès (UIDT), je suis un développeur Full-Stack & Mobile passionné par la conception de solutions logicielles robustes et performantes.
-
-🚀 **Actuellement à la recherche d'un stage de fin d'études / d'immersion** pour mettre mes compétences en développement au service de projets à fort impact.
 
 ---
 
